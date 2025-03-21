@@ -8,12 +8,15 @@ I'm a passionate software developer with a love for coding, learning new technol
 - 🌱 I’m currently learning advanced algorithms and data structures
 - 👯 I’m looking to collaborate on open-source projects related to web development and AI
 - 💬 Ask me about anything related to JavaScript, Python, and web development
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new places
 
 ## 🛠️ Technologies & Tools
 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
