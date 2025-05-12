@@ -24,8 +24,5 @@ I'm a passionate software developer with a love for coding, learning new technol
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 📈 GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrelmy&show_icons=true&theme=radical)
 
 Thank you for visiting my profile. Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
