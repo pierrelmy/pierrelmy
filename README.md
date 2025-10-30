@@ -2,14 +2,6 @@
 
 I'm a passionate software developer with a love for coding, learning new technologies, and solving complex problems. Welcome to my GitHub profile!
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on several open-source projects
-- 🌱 I’m currently learning advanced algorithms and data structures
-- 👯 I’m looking to collaborate on open-source projects related to web development and AI
-- 💬 Ask me about anything related to JavaScript, Python, and web development
-- ⚡ Fun fact: I love hiking and exploring new places
-
 ## 🛠️ Technologies & Tools
 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -23,6 +15,5 @@ I'm a passionate software developer with a love for coding, learning new technol
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
 
 Thank you for visiting my profile. Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
